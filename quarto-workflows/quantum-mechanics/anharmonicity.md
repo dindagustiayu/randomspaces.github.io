@@ -7,13 +7,8 @@ Let's now consider two ways in which the vibrational structure of "real molecule
 
 ## Anharmonicity
 First, real vibrational motions involve "anharmonicity", e.g., Their potential deviates from a perfect harmonic oscillator quadratic potential energy surfaces. We've already touched on this by looking at the Morse Potential.
-<p align='center'>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Morse-potential.svg/960px-Morse-potential.svg.png" alt="figure" width="400"/>
-</p>
 
-<p align='center'>
-    $$\mbox{Figure.The Morse Potential (blue) and harmonic oscillator potential (green)}$$
-</p>
+[![Figure.The Morse Potential (blue) and harmonic oscillator potential (green)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Morse-potential.svg/960px-Morse-potential.svg.png)](https://en.wikipedia.org/wiki/Morse_potential)
 
 The harmonic oscillator is a reasonable approximation of this potential near the equilibrium geometry, but deviates substantially for $x$ far from the center of the well. Correspondingly, the vibrational levels of the Morse potential will deviate from those of the HO model. Note that the Morse potential levels grow closer together as energy increases.
 
@@ -275,9 +270,7 @@ xp = - np.log(1 - np.sqrt(Ev/ De)) / a
 plt.savefig('Morse Oscillator Potential with Vibrational Levels.svg', bbox_inches='tight')
 plt.hlines(Ev, xm, xp)
 ```
-<div align='center'>
-    <img src="https://github.com/dindagustiayu/The-Morse-Oscillator/blob/main/Morse%20Oscillator%20Potential%20with%20Vibrational%20Levels%20of%20HCl.svg">
-</div>
+![Figure. Morse Oscillator Potential with Vibrational Levels of HCl](/quarto-workflows/images/Morse Oscillator Potential with Vibrational Levels of HCl.svg)
 
 # Conclusion
 - The Morse oscillator is a bridge of the gap between idealized theory and real molecular behavior.
