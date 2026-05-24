@@ -18,7 +18,8 @@ And me? Well, I'm __Dinda Gusti Ayu__ [![GitHub](https://img.shields.io/badge/--
 
 ## What is Random Spaces?
 
-__Random Spaces__ is a free, open learning resource for students and researchers who interested in applying Python to solve complex problems, to manage and tranform data, and to produce publication-quality figures. The tutorials is created by integrating mathematics, chemistry and computational tools.
+__Random Spaces__ is a free, open learning resource for students and researchers who interested in applying Python to solve complex problems, to manage and tranform data, and to produce publication-quality figures. The goal is to take the most efficient approach for describing the link between Python language to a particular concepts in mathematics, Physics and Chemistry.
+ 
 
 All materials are shared openly on my repositories [![Badge](https://img.shields.io/badge/github-repositories-black?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&label=github&labelColor=hex&color=black)](https://github.com/dindagustiayu?tab=repositories)
 
