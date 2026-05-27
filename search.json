@@ -735,7 +735,7 @@
     "href": "quarto-workflows/quantum-mechanics/anharmonicity.html#the-morse-oscillator-schrddoto-dinger-equation",
     "title": "Vibrational Anharmonicity",
     "section": "The Morse oscillator \\(Schr\\ddot{o} dinger\\) equation",
-    "text": "The Morse oscillator \\(Schr\\ddot{o} dinger\\) equation\nSolving the \\(Schr\\ddot{o}dinger\\) with the Morse oscillator is not trivial, but can be done analytically in terms of associated Laguerre polynomials.\n\n\\[\\psi (n) = N_n z^{\\lambda - n - \\frac{1}{2}} e^{-z / 2} L_n^{2 \\lambda - 2n - 1} (z) \\quad [in \\ cm^{-1}] \\tag{4}\\]\n\nwhere - \\(N_n = \\sqrt{\\frac{n!(2\\lambda - 2n - 1)a}{\\Gamma (2 \\lambda - n)}}, \\quad \\lambda = \\frac{\\sqrt{2mD_e}}{a\\hbar}\\) is normalization constant. - \\(\\mathcal{L}_n^(\\alpha) = \\frac{z^{- \\alpha} e^z}{v !} \\ \\frac{d^n}{dz^n} (z^{n + \\alpha} e^{-z}), \\quad z= 2\\lambda e^{-x}\\) is a generalized Laguerre Polynomial. - \\(n = 0, \\ 1, \\ 2, \\ 3, \\ldots, \\left[ \\lambda - \\frac{1}{2} \\right]\\)",
+    "text": "The Morse oscillator \\(Schr\\ddot{o} dinger\\) equation\nSolving the \\(Schr\\ddot{o}dinger\\) with the Morse oscillator is not trivial, but can be done analytically in terms of associated Laguerre polynomials.\n\n\\[\\psi (n) = N_n z^{\\lambda - n - \\frac{1}{2}} e^{-z / 2} L_n^{2 \\lambda - 2n - 1} (z) \\quad [in \\ cm^{-1}] \\tag{4}\\]\n\nwhere\n\n\\(N_n = \\sqrt{\\frac{n!(2\\lambda - 2n - 1)a}{\\Gamma (2 \\lambda - n)}}, \\quad \\lambda = \\frac{\\sqrt{2mD_e}}{a\\hbar}\\) is normalization constant.\n\\(\\mathcal{L}_n^(\\alpha) = \\frac{z^{- \\alpha} e^z}{v !} \\ \\frac{d^n}{dz^n} (z^{n + \\alpha} e^{-z}), \\quad z= 2\\lambda e^{-x}\\) is a generalized Laguerre Polynomial.\n\\(n = 0, \\ 1, \\ 2, \\ 3, \\ldots, \\left[ \\lambda - \\frac{1}{2} \\right]\\)",
     "crumbs": [
       "Contents",
       "Quantum Mechanics",
@@ -1826,7 +1826,7 @@
     "href": "index.html",
     "title": "Python for Scientific Computing and Data Visualizations",
     "section": "",
-    "text": "Note\n\n\n\nSubject to the existing rights of third parties, randomspaces.github.io and/or host institutions are the copyright owner in this work, and no portion thereof is to be copied, reproduced, or disseminated, including for AI training, without the prior written consent of randomspaces.github.io.\nFor more information, send email to dindagustiayuedu@gmail.com",
+    "text": "Note\n\n\n\nSubject to the existing rights of third parties, randomspaces.github.io and/or host institutions are the copyright owner in this work, and no portion thereof is to be copied, reproduced, or disseminated, including for AI training, without the prior written consent of randomspaces.github.io.\nFor more information, send email to materials@dindagustiayu.com",
     "crumbs": [
       "Home"
     ]
@@ -1856,7 +1856,7 @@
     "href": "index.html#navigation",
     "title": "Python for Scientific Computing and Data Visualizations",
     "section": "Navigation",
-    "text": "Navigation\nWe can quickly navigate through the sections using the navigation bar on the left side, and the sub navigation bar on the right side. There is also a search box to help we find any content in this page swiftly.",
+    "text": "Navigation\nWe can quickly navigate through the sections using the navigation bar on the left side, and the sub navigation bar on the right side. There is also a search box to help us find any content in this page swiftly.",
     "crumbs": [
       "Home"
     ]
@@ -1866,7 +1866,7 @@
     "href": "index.html#contact",
     "title": "Python for Scientific Computing and Data Visualizations",
     "section": "Contact",
-    "text": "Contact\nFeel free to contact me through email: dindagustiayuedu@gmail.com. If you have inquiries and/ or suggestion. Looking forward to hearing from you!\nLet’s get down with Random Spaces!",
+    "text": "Contact\nFeel free to contact me through email: materials@dindagustiayu.com. If you have inquiries and/ or suggestion. Looking forward to hearing from you!\nLet’s get down with Random Spaces!",
     "crumbs": [
       "Home"
     ]
